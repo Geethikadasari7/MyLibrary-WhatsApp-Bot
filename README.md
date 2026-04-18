@@ -98,7 +98,7 @@ This project contains the following workflows:
 * **`daily-reminder-service.json`:** A scheduled workflow named `Daily Due Date Reminder` that runs once a day to remind students of their pending due dates.
 
 
-## 📚 MyLibrary-Bot Workflows
+## 📚 MyLibrary-Bot Workflow Snapshots
 
 A visual overview of all workflows powering **MyLibrary-Bot**.
 
