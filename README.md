@@ -73,7 +73,7 @@ A visual overview of all workflows powering **MyLibrary-Bot**.
   <img src="https://github.com/user-attachments/assets/b129a578-3e5a-44ac-bf22-6fa05728800d" width="75%" />
 </p>
 
----
+
 
 ## 2. My Books Workflow
 <p align="center">
@@ -85,7 +85,7 @@ A visual overview of all workflows powering **MyLibrary-Bot**.
   <img src="https://github.com/user-attachments/assets/b1762321-6260-41d1-97e3-3685ca60635e" width="55%" />
 </p>
 
----
+
 
 ## 3. Instant Issue Confirmation Workflow
 <p align="center">
@@ -93,7 +93,7 @@ A visual overview of all workflows powering **MyLibrary-Bot**.
   <img src="https://github.com/user-attachments/assets/45f9ed5d-c2b7-4abc-8a99-cf753804d5a7" width="45%" />
 </p>
 
----
+
 
 ## 4. Daily Reminder Service Workflow
 <p align="center">
@@ -101,7 +101,7 @@ A visual overview of all workflows powering **MyLibrary-Bot**.
   <img src="https://github.com/user-attachments/assets/9663468a-32b6-4ac9-a500-92e020521171" width="20%" />
 </p>
 
----
+
 
 ## 5. Librarian Initiated Workflow
 <p align="center">
@@ -109,7 +109,7 @@ A visual overview of all workflows powering **MyLibrary-Bot**.
   <img src="https://github.com/user-attachments/assets/e54b921c-7c72-4c8d-bc2c-7ce933e1fc00" width="45%" />
 </p>
 
----
+
 
 ## ✨ Highlights
 - Clean workflow automation  
@@ -117,11 +117,10 @@ A visual overview of all workflows powering **MyLibrary-Bot**.
 - Smart reminder system  
 - Librarian control workflows  
 
----
+
 
 ## 🚀 Built With
 - Workflow Automation  
 - Bot Integration  
 - Event-driven Architecture  
 
----
