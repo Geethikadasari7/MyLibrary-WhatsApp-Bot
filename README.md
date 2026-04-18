@@ -144,3 +144,10 @@ A visual overview of all workflows powering **MyLibrary-Bot**.
 </p>
 
 
+## 💡 Idea Ownership
+
+The idea, workflow design, and system architecture behind **MyLibrary-Bot** are my original work.  
+
+This repository is shared here for educational and demonstration purposes.
+
+📩 For collaborations or queries, connect with me at **geethikaadasari@gmail.com**
