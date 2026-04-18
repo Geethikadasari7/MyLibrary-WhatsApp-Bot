@@ -110,17 +110,3 @@ A visual overview of all workflows powering **MyLibrary-Bot**.
 </p>
 
 
-
-## ✨ Highlights
-- Clean workflow automation  
-- Instant issue confirmation  
-- Smart reminder system  
-- Librarian control workflows  
-
-
-
-## 🚀 Built With
-- Workflow Automation  
-- Bot Integration  
-- Event-driven Architecture  
-
