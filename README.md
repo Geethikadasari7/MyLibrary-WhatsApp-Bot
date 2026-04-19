@@ -1,5 +1,5 @@
 # 🤖 MyLibrary Bot: An n8n-Powered WhatsApp Library Assistant
-MyLibrary-Bot is a powerful WhatsApp Library Assistant built with n8n, Google Sheets and Twilio. It allows students to get a full summary of their library account and receive automatic notifications for new books, returned books, and daily due date reminders.
+MyLibrary-Bot is a powerful Modern WhatsApp Library Assistant built with n8n, Google Sheets and Twilio. It allows students to get a full summary of their library account and receive automatic notifications for new books, returned books, and daily due date reminders.
 
 
 ![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-2A2B57?style=for-the-badge&logo=n8n) ![Twilio](https://img.shields.io/badge/Twilio-Communication_API-F22F46?style=for-the-badge&logo=twilio) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-Database-34A853?style=for-the-badge&logo=google-sheets) ![WhatsApp](https://img.shields.io/badge/WhatsApp-Interface-25D366?style=for-the-badge&logo=whatsapp)
